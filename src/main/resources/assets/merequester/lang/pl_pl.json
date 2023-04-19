@@ -1,0 +1,37 @@
+{
+  "itemGroup.merequester": "ME Requester",
+
+  "item.merequester.requester_terminal": "Terminal ME Requester'a",
+  "block.merequester.requester": "ME Requester",
+
+  "gui.merequester.requester_terminal": "Terminal ME Requester'a",
+  "gui.merequester.no_requesters": "Nie znalezionio żadnego ME Requester'a!",
+
+  "tooltip.merequester.requester_desc": "Automatically keeps items and fluids in stock by requesting new crafts when needed. Has to be connected to an ME network and can be accessed from an ME Requester Terminal. Will lose its configuration when broken. Settings can be copied with a Memory Card.",
+  "tooltip.merequester.requester_desc": "Automatycznie utrzymuję ustalony poziom przedmiotów i płynów w systemie, za pomocą rządania nowych zamówien. Musi być połączony do systemu ME i może być ... za pomocą terminala ME Requester'a. Nie zachowuje swojej konfiguracji bo zniszczeniu. Ustawienia mogą być skopiowane z pomocą Karty Pamięci.",
+
+  "tooltip.merequester.shift_for_more": "%s aby zobaczyć więcej",
+  "tooltip.merequester.enter_to_submit": "%s aby wysłać",
+
+  "tooltip.merequester.whole_number": "Musi być liczbą całkowitą!",
+  "tooltip.merequester.locked": "Zablokowany! Zamówienie trwa.",
+
+  "tooltip.merequester.toggle": "Przełącz zamówienie",
+  "tooltip.merequester.amount": "Ilość do przechowania",
+  "tooltip.merequester.batch": "Rozmiar zamówienia",
+  "tooltip.merequester.submit": "Zapisz ustawienia",
+  "tooltip.merequester.status": "Status Zamówienia",
+
+  "tooltip.merequester.idle": "Bezczynny",
+  "tooltip.merequester.idle_desc": "The Requester is idling when the requested amount is already reached or there is no crafting pattern for this item or fluid.",
+  "tooltip.merequester.idle_desc": "ME Requester jest bezczynny kiedy ilość przedmiotów do zachowania w systemie jest odpowiednia albo nie można znaleźć receptury dla ustawionego przedmiotu/płynu.",
+  "tooltip.merequester.missing": "Brakuje składników",
+  "tooltip.merequester.missing_desc": "The system is missing ingredients to craft the requested item or fluid. The process is continued when the ingredients are available.",
+  "tooltip.merequester.missing_desc": "Brakuje odpowiednich składników w systemie do wytworzenia ustawionego przedmiotu/płynu. ME Requester automatycznie powróci do funkcjonowania kiedy potrzebne składniki będą dostępne.",
+  "tooltip.merequester.link": "Tworzenie",
+  "tooltip.merequester.link_desc": "The system is currently crafting the requested item or fluid.",
+  "tooltip.merequester.link_desc": "System jest w trakcie wytwarzania ustawionego przedmiotu/płynu.",
+  "tooltip.merequester.export": "Eksportowanie",
+  "tooltip.merequester.export_desc": "The Requester is trying to export the crafting results to the system. If the Requester has this status for a long time, there is no available space for the export.",
+  "tooltip.merequester.export_desc": "ME Requester próbuję dostarczyć wytworzone przedmioty do systemu. Jeśli ten status utrzymuję się przez dłuższy czas, oznacza to brak miejsca na zamówiony przedmiot w systemie!"
+}
